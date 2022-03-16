@@ -1,0 +1,9 @@
+316559624
+Alona Laskar 316559624
+HTTP Proxy Server 
+proxyServer.c: This is a partial HTTP Server program, the program only supports a small part of the whole
+threadpool.c: Produces a threadpool that will perform several tasks simultaneously.
+The concept of an HTTP server.
+This server supports GET requests.
+The server knows to agree to the client request and return the appropriate response.
+It connects the proxyServer file and with it we can access the server and enter several requests simultaneously
