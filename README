@@ -1,5 +1,4 @@
-316559624
-Alona Laskar 316559624
+
 HTTP Proxy Server 
 proxyServer.c: This is a partial HTTP Server program, the program only supports a small part of the whole
 threadpool.c: Produces a threadpool that will perform several tasks simultaneously.
